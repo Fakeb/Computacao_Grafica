@@ -1,0 +1,7 @@
+esc -> fecha o programa
+wasd -> movimenta pela cena
+pgup e pgdown -> sobe e desce pela cena
+L -> liga/desliga a luz
+P -> abre/fecha a porta(função pesada, pode demorar um pouco)
++ e - -> gira todo o objeto
+mouse -> movimenta a camera pela cena
